@@ -1,0 +1,9 @@
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\bin\Debug\ClientTests.pdb
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\obj\Debug\ClientTests.csprojResolveAssemblyReference.cache
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\obj\Debug\ClientTests.csproj.CoreCompileInputs.cache
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\obj\Debug\ClientTests.pdb
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\bin\Debug\ClientTests.exe
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\obj\Debug\ClientTests.exe
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\obj\Debug\ClientTests.csproj.CopyComplete
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\bin\Debug\TCPChat.dll
+C:\FTPShare\Coding Projects\TCPChat\ClientTests\bin\Debug\TCPChat.pdb

@@ -1,0 +1,10 @@
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\bin\Debug\TCPChatConsoleClient.exe.config
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\bin\Debug\TCPChatConsoleClient.exe
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\bin\Debug\TCPChatConsoleClient.pdb
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\bin\Debug\TCPChat.dll
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\bin\Debug\TCPChat.pdb
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\obj\Debug\TCPChatConsoleClient.csprojResolveAssemblyReference.cache
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\obj\Debug\TCPChatConsoleClient.csproj.CoreCompileInputs.cache
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\obj\Debug\TCPChatConsoleClient.csproj.CopyComplete
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\obj\Debug\TCPChatConsoleClient.exe
+C:\FTPShare\Coding Projects\TCPChat\TCPChatConsoleClient\obj\Debug\TCPChatConsoleClient.pdb

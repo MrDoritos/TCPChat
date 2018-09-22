@@ -1,0 +1,6 @@
+C:\FTPShare\Coding Projects\TCPChat\TCPChat\bin\Debug\TCPChat.dll
+C:\FTPShare\Coding Projects\TCPChat\TCPChat\bin\Debug\TCPChat.pdb
+C:\FTPShare\Coding Projects\TCPChat\TCPChat\obj\Debug\TCPChat.csprojResolveAssemblyReference.cache
+C:\FTPShare\Coding Projects\TCPChat\TCPChat\obj\Debug\TCPChat.csproj.CoreCompileInputs.cache
+C:\FTPShare\Coding Projects\TCPChat\TCPChat\obj\Debug\TCPChat.dll
+C:\FTPShare\Coding Projects\TCPChat\TCPChat\obj\Debug\TCPChat.pdb

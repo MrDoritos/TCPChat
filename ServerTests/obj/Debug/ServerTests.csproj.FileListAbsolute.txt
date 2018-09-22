@@ -1,0 +1,9 @@
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\bin\Debug\ServerTests.exe
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\bin\Debug\ServerTests.pdb
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\bin\Debug\TCPChat.dll
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\bin\Debug\TCPChat.pdb
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\obj\Debug\ServerTests.csprojResolveAssemblyReference.cache
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\obj\Debug\ServerTests.csproj.CoreCompileInputs.cache
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\obj\Debug\ServerTests.csproj.CopyComplete
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\obj\Debug\ServerTests.exe
+C:\FTPShare\Coding Projects\TCPChat\ServerTests\obj\Debug\ServerTests.pdb
